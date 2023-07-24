@@ -1,6 +1,5 @@
 - 👋 Hi, I’m carrot729
-- 🌱 I’m currently learning [Python](https://python.org)
-- 💞️ I’m looking to collaborate on [cacaSDK](https://github.com/cacasdk)
+- 🌱 I’m currently learning Python and C++
 - 📫 <hnf729@outlook.com>
 
 <!---
