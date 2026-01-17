@@ -1,6 +1,6 @@
 - 👋 Hi, I’m carrot729
 - 🌱 I’m currently learning Python and C++
-- 📫 <hnf729@outlook.com>
+- 📫 <CarrotFrank729@outlook.com>
 
 <!---
 carrot7291/carrot7291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
